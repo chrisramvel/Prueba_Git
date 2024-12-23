@@ -6,3 +6,5 @@ prefix = '---'
 
 for i in(hero):
     print(prefix, i)
+print("Ejemplo")
+
