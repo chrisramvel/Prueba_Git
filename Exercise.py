@@ -8,4 +8,4 @@ for numero in numeros:
 
 #Como ejercicio/reto, tratar de añadir a la lista un -7, poner un contador antes del bucle for#
 #y en el print sustituir "primer" por "contador", y que me de el resultado de todos los números negativos#
-print("Ejemplo")
+print("Ejemplo_modificado")
